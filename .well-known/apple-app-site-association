@@ -2,7 +2,7 @@
 	"applinks": {
 		"details": [
 			{
-				"appIDs": ["LGKMT7U83D.au.com.qantas.entertainment.debug"],
+				"appIDs": ["464Y35N6T8.au.com.qantas.entertainment.debug"],
 				"components": [
 					{
 						"/": "captive-apple-redirect.html"
