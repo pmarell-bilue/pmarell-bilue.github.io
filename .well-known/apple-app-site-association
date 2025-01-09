@@ -1,0 +1,14 @@
+{
+	"applinks": {
+		"details": [
+			{
+				"appIDs": ["464Y35N6T8.au.com.qantas.entertainment.debug"],
+				"components": [
+					{
+						"/": "captive-apple-redirect.html"
+					}
+				]
+			}
+		]
+	}
+}
