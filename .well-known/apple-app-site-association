@@ -2,7 +2,10 @@
 	"applinks": {
 		"details": [
 			{
-				"appIDs": ["464Y35N6T8.au.com.qantas.entertainment.debug"],
+				"appIDs": [
+					"464Y35N6T8.au.com.qantas.entertainment.debug",
+					"464Y35N6T8.au.com.qantas.public.Q-Streaming",
+				],
 				"components": [
 					{
 						"/": "captive-apple-redirect.html"
