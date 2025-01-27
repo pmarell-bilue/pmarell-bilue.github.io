@@ -9,6 +9,9 @@
 				"components": [
 					{
 						"/": "captive-apple-redirect.html"
+					},
+					{
+						"/": "ife-app"
 					}
 				]
 			}
